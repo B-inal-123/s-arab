@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXTINF:1,
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:44:8A:90&stream=1233410&extension=ts&play_token=wc8oAh4OCH
